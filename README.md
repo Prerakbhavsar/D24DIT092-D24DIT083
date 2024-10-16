@@ -1,1 +1,1 @@
-# D24DIT092-D24DIT083
+# D24DIT092-D24DIT083_Event_Management_project
